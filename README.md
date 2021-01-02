@@ -10,6 +10,6 @@ git clone https://github.com/AstroBolo/Digit-Boot.git
 
 cd Digit-Boot
 
-python3 boot.py
+python3 boot2.py
 
 
